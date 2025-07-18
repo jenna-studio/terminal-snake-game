@@ -64,7 +64,7 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 
 ## 📹 Demo
 
-A sample gameplay is included in `snake_game_demo.mp4`.
+[Watch the demo](https://youtu.be/iB2TMkbJRNE?si=4bU9LjBd8F9mmJB3)
 
 ## 🏆 High Scores
 
